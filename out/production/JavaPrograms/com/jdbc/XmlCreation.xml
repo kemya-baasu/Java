@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employeedetails>
+
+    <employee id="1">
+        <empName>Abarna</empName>
+        <empEmail>abarna.ak@zohocorp.com</empEmail>
+        <empSalary>60000</empSalary>
+        <empDesignation>PT</empDesignation>
+        <empAddress>Erode</empAddress>
+    </employee>
+    <employee id="2">
+        <empName>Dinesh</empName>
+        <empEmail>dinesh.siva@zohocorp.com</empEmail>
+        <empSalary>60000</empSalary>
+        <empDesignation>MTS</empDesignation>
+        <empAddress>Erode</empAddress>
+    </employee>
+    <employee id="3">
+        <empName>Rithik</empName>
+        <empEmail>rithik.s@zohocorp.com</empEmail>
+        <empSalary>80000</empSalary>
+        <empDesignation>MLS</empDesignation>
+        <empAddress>Coimbatore</empAddress>
+    </employee>
+
+
+    <employee id="4">
+        <empName>Kemya</empName>
+        <empEmail>kemya.j@zohocorp.com</empEmail>
+        <empSalary>25000</empSalary>
+        <empDesignation>PT</empDesignation>
+        <empAddress>Somanur</empAddress>
+    </employee>
+</employeedetails>
