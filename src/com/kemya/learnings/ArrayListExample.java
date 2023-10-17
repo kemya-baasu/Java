@@ -11,7 +11,7 @@ public class ArrayListExample {
         names.add("Dinesh Kumar");
         Iterator namesIter=names.iterator();
         while ( namesIter.hasNext()){
-            System.out.println(namesIter.next());
+            System.out.println(namesIter.next()+"Hi");
         }
 
         LinkedList<String> ll=new LinkedList<String>();
